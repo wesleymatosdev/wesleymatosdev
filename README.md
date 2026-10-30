@@ -46,10 +46,10 @@ Plus one-off merged fixes in Handy, ts-jest, firstmate, Cap-go, inb, zcode-cli, 
 
 ## ✦ Stack
 
-**Languages** JavaScript · TypeScript · Rust · Go · Python · Node.js · Deno · Bun
-**Web** React · Next.js · Vue · NestJS · GraphQL · Fastify
-**Infra & data** AWS · GCP · Kubernetes · Terraform · Kafka · PostgreSQL · Redis · Elasticsearch · Fastly · Akamai
-**Agent stack** Ollama · MCP · Qdrant · embeddings & vector search · agent skills and plugins · spec-driven development · harness/loop engineering
+- **Languages** JavaScript · TypeScript · Rust · Go · Python · Node.js · Deno · Bun
+- **Web** React · Next.js · Vue · NestJS · GraphQL · Fastify
+- **Infra & data** AWS · GCP · Kubernetes · Terraform · Kafka · PostgreSQL · Redis · Elasticsearch · Fastly · Akamai
+- **Agent stack** Ollama · MCP · Qdrant · embeddings & vector search · agent skills and plugins · spec-driven development · harness/loop engineering
 
 ## ✦ Find me
 
